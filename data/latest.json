@@ -1,0 +1,60 @@
+{
+  "tarih": "2026-11-02",
+  "olusturulma": "2026-11-02T12:09:26+03:00",
+  "resmi_gazete": {
+    "kaynak": "Resmî Gazete",
+    "sayilar": [
+      {
+        "tarih": "2026-11-02",
+        "url": "https://www.resmigazete.gov.tr/fihrist?tarih=2026-11-02",
+        "status": "ok",
+        "tarih_metni": "02 Kasım 2026",
+        "sayi": "33418",
+        "items": [
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "CUMHURBAŞKANLIĞINA VEKÂLET ETME İŞLEMİ",
+            "baslik": "Cumhurbaşkanlığına, Cumhurbaşkanı Yardımcısı Cevdet YILMAZ’ın Vekâlet Etmesine Dair Tezkere",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261102-1.pdf",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "YÖNETMELİKLER",
+            "baslik": "Eskişehir Osmangazi Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261102-2.htm",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "YÖNETMELİKLER",
+            "baslik": "İstanbul Kültür Üniversitesi Geomatik Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261102-3.htm",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "YÖNETMELİKLER",
+            "baslik": "İzmir Yüksek Teknoloji Enstitüsü Biyoteknoloji ve Biyomühendislik Uygulama ve Araştırma Merkezi Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261102-4.htm",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "YÖNETMELİKLER",
+            "baslik": "Sivas Cumhuriyet Üniversitesi Tıp Fakültesi Eğitim-Öğretim ve Sınav Yönetmeliği",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261102-5.htm",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          }
+        ],
+        "notes": []
+      }
+    ]
+  },
+  "kurumlar": []
+}

@@ -1,0 +1,52 @@
+{
+  "tarih": "2026-10-09",
+  "olusturulma": "2026-10-09T11:46:00+03:00",
+  "resmi_gazete": {
+    "kaynak": "Resmî Gazete",
+    "sayilar": [
+      {
+        "tarih": "2026-10-09",
+        "url": "https://www.resmigazete.gov.tr/fihrist?tarih=2026-10-09",
+        "status": "ok",
+        "tarih_metni": "09 Ekim 2026",
+        "sayi": "33395",
+        "items": [
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "YÖNETMELİKLER",
+            "baslik": "Araç Muayene İstasyonlarının Açılması, İşletilmesi ve Araç Muayenesi Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261009-1.htm",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "YÖNETMELİKLER",
+            "baslik": "Demiryolu Emniyet Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261009-2.htm",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "YÖNETMELİKLER",
+            "baslik": "Ulaştırma Hizmetleri Denetim Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261009-3.htm",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "TEBLİĞ",
+            "baslik": "İthalatta Gözetim Uygulanmasına İlişkin Tebliğ (Tebliğ No: 2022/1)’de Değişiklik Yapılmasına Dair Tebliğ",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261009-4.htm",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          }
+        ],
+        "notes": []
+      }
+    ]
+  },
+  "kurumlar": []
+}
