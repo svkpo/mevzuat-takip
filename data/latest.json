@@ -1,71 +1,69 @@
 {
-  "tarih": "2026-11-06",
-  "olusturulma": "2026-11-06T05:46:06+03:00",
+  "tarih": "2026-11-07",
+  "olusturulma": "2026-11-07T05:40:01+03:00",
   "resmi_gazete": {
     "kaynak": "Resmî Gazete",
     "sayilar": [
       {
-        "tarih": "2026-11-06",
-        "url": "https://www.resmigazete.gov.tr/fihrist?tarih=2026-11-06",
+        "tarih": "2026-11-07",
+        "url": "https://www.resmigazete.gov.tr/fihrist?tarih=2026-11-07",
         "status": "ok",
-        "tarih_metni": "06 Kasım 2026",
-        "sayi": "33422",
+        "tarih_metni": "07 Kasım 2026",
+        "sayi": "33423",
         "items": [
           {
             "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
-            "tur": "YÖNETMELİKLER",
-            "baslik": "Organize Sanayi Bölgeleri Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261106-1.htm",
+            "tur": "ATAMA KARARLARI",
+            "baslik": "Cumhurbaşkanlığı Tarafından Yapılan Atamalar Hakkında Kararlar (Karar: 2026/378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388)",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261107-1.pdf",
             "mukerrer": false,
             "anahtar_kelime": []
           },
           {
             "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
             "tur": "YÖNETMELİKLER",
-            "baslik": "İnönü Üniversitesi Türkçe Öğretimi Uygulama ve Araştırma Merkezi Yönetmeliği",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261106-2.htm",
+            "baslik": "Aile Danışma Merkezleri Yönetmeliği",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261107-2.htm",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "YÖNETMELİKLER",
+            "baslik": "Çevresel Etki Değerlendirmesi Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261107-3.htm",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "YÖNETMELİKLER",
+            "baslik": "Sığır Karkasının Sınıflandırılmasına Dair Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261107-4.htm",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "YÖNETMELİKLER",
+            "baslik": "Türk Mühendis ve Mimar Odaları Birliği Metalurji ve Malzeme Mühendisleri Odası Ana Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261107-5.htm",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "YÖNETMELİKLER",
+            "baslik": "Türk Mühendis ve Mimar Odaları Birliği Meteoroloji Mühendisleri Odası Ana Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261107-6.htm",
             "mukerrer": false,
             "anahtar_kelime": []
           },
           {
             "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
             "tur": "KURUL KARARI",
-            "baslik": "Bankacılık Düzenleme ve Denetleme Kurulunun 04/11/2026 Tarihli ve 11593 Sayılı Kararı",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261106-3.pdf",
-            "mukerrer": false,
-            "anahtar_kelime": [
-              "Bankacılık"
-            ]
-          },
-          {
-            "bolum": "YARGI BÖLÜMÜ",
-            "tur": "ANAYASA MAHKEMESİ KARARLARI",
-            "baslik": "Anayasa Mahkemesinin 16/7/2026 Tarihli ve E: 2026/23, K: 2026/162 Sayılı Kararı",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261106-4.pdf",
-            "mukerrer": false,
-            "anahtar_kelime": []
-          },
-          {
-            "bolum": "YARGI BÖLÜMÜ",
-            "tur": "ANAYASA MAHKEMESİ KARARLARI",
-            "baslik": "Anayasa Mahkemesinin 30/4/2026 Tarihli ve 2021/29667 Başvuru Numaralı Kararı",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261106-5.pdf",
-            "mukerrer": false,
-            "anahtar_kelime": []
-          },
-          {
-            "bolum": "YARGI BÖLÜMÜ",
-            "tur": "ANAYASA MAHKEMESİ KARARLARI",
-            "baslik": "Anayasa Mahkemesinin 30/4/2026 Tarihli ve 2022/103359 Başvuru Numaralı Kararı",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261106-6.pdf",
-            "mukerrer": false,
-            "anahtar_kelime": []
-          },
-          {
-            "bolum": "YARGI BÖLÜMÜ",
-            "tur": "ANAYASA MAHKEMESİ KARARLARI",
-            "baslik": "Anayasa Mahkemesinin 11/6/2026 Tarihli ve 2019/18263 Başvuru Numaralı Kararı",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261106-7.pdf",
+            "baslik": "Enerji Piyasası Düzenleme Kurulunun 04/11/2026 Tarihli ve 15024 Sayılı Kararı",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261107-7.pdf",
             "mukerrer": false,
             "anahtar_kelime": []
           }
