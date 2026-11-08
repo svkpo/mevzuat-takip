@@ -1,0 +1,52 @@
+{
+  "tarih": "2026-11-08",
+  "olusturulma": "2026-11-08T05:43:00+03:00",
+  "resmi_gazete": {
+    "kaynak": "Resmî Gazete",
+    "sayilar": [
+      {
+        "tarih": "2026-11-08",
+        "url": "https://www.resmigazete.gov.tr/fihrist?tarih=2026-11-08",
+        "status": "ok",
+        "tarih_metni": "08 Kasım 2026",
+        "sayi": "33424",
+        "items": [
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "CUMHURBAŞKANLIĞINA VEKÂLET ETME İŞLEMİ",
+            "baslik": "Cumhurbaşkanlığına, Cumhurbaşkanı Yardımcısı Cevdet YILMAZ’ın Vekâlet Etmesine Dair Tezkere",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261108-1.pdf",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "YÖNETMELİKLER",
+            "baslik": "Bahçeşehir Üniversitesi Sporda Yenilikçilik Uygulama ve Araştırma Merkezi Yönetmeliği",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261108-2.htm",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "YÖNETMELİKLER",
+            "baslik": "Bahçeşehir Üniversitesi Türk Müziği Uygulama ve Araştırma Merkezi Yönetmeliği",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261108-3.htm",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YARGI BÖLÜMÜ",
+            "tur": "UYUŞMAZLIK MAHKEMESİ KARARLARI",
+            "baslik": "Uyuşmazlık Mahkemesine Ait Kararlar",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261108-4.pdf",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          }
+        ],
+        "notes": []
+      }
+    ]
+  },
+  "kurumlar": []
+}
