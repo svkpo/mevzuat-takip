@@ -1,17 +1,14 @@
-# Mevzuat Takip – Ham Toplama (2026-11-08)
+# Mevzuat Takip – Ham Toplama (2026-11-09)
 
-Oluşturulma: 2026-11-08T05:43:00+03:00
+Oluşturulma: 2026-11-09T05:45:29+03:00
 
-## Resmî Gazete 2026-11-08 – sayı 33424 – durum: ok
-
-**YÜRÜTME VE İDARE BÖLÜMÜ / CUMHURBAŞKANLIĞINA VEKÂLET ETME İŞLEMİ**
-- [Cumhurbaşkanlığına, Cumhurbaşkanı Yardımcısı Cevdet YILMAZ’ın Vekâlet Etmesine Dair Tezkere](https://www.resmigazete.gov.tr/eskiler/2026/11/20261108-1.pdf)
+## Resmî Gazete 2026-11-09 – sayı 33425 – durum: ok
 
 **YÜRÜTME VE İDARE BÖLÜMÜ / YÖNETMELİKLER**
-- [Bahçeşehir Üniversitesi Sporda Yenilikçilik Uygulama ve Araştırma Merkezi Yönetmeliği](https://www.resmigazete.gov.tr/eskiler/2026/11/20261108-2.htm)
-- [Bahçeşehir Üniversitesi Türk Müziği Uygulama ve Araştırma Merkezi Yönetmeliği](https://www.resmigazete.gov.tr/eskiler/2026/11/20261108-3.htm)
-
-**YARGI BÖLÜMÜ / UYUŞMAZLIK MAHKEMESİ KARARLARI**
-- [Uyuşmazlık Mahkemesine Ait Kararlar](https://www.resmigazete.gov.tr/eskiler/2026/11/20261108-4.pdf)
+- [İstanbul Bilgi Üniversitesi Fikrî Mülkiyet Hukuku Uygulama ve Araştırma Merkezi Yönetmeliği](https://www.resmigazete.gov.tr/eskiler/2026/11/20261109-1.htm)
+- [İstanbul Bilgi Üniversitesi Kültür Politikaları ve Yönetimi Uygulama ve Araştırma Merkezi Yönetmeliği](https://www.resmigazete.gov.tr/eskiler/2026/11/20261109-2.htm)
+- [İstanbul Bilgi Üniversitesi Rekabet Hukuku ve Politikası Uygulama ve Araştırma Merkezi Yönetmeliği](https://www.resmigazete.gov.tr/eskiler/2026/11/20261109-3.htm)
+- [İstanbul Bilgi Üniversitesi Uluslararası Ticaret ve Tahkim Hukuku Uygulama ve Araştırma Merkezi Yönetmeliği](https://www.resmigazete.gov.tr/eskiler/2026/11/20261109-4.htm)
+- [İstanbul Üniversitesi Sürekli Eğitim Uygulama ve Araştırma Merkezi Yönetmeliği](https://www.resmigazete.gov.tr/eskiler/2026/11/20261109-5.htm)
 
 ## Kurum sayfaları

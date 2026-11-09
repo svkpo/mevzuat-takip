@@ -1,45 +1,53 @@
 {
-  "tarih": "2026-11-08",
-  "olusturulma": "2026-11-08T05:43:00+03:00",
+  "tarih": "2026-11-09",
+  "olusturulma": "2026-11-09T05:45:29+03:00",
   "resmi_gazete": {
     "kaynak": "Resmî Gazete",
     "sayilar": [
       {
-        "tarih": "2026-11-08",
-        "url": "https://www.resmigazete.gov.tr/fihrist?tarih=2026-11-08",
+        "tarih": "2026-11-09",
+        "url": "https://www.resmigazete.gov.tr/fihrist?tarih=2026-11-09",
         "status": "ok",
-        "tarih_metni": "08 Kasım 2026",
-        "sayi": "33424",
+        "tarih_metni": "09 Kasım 2026",
+        "sayi": "33425",
         "items": [
           {
             "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
-            "tur": "CUMHURBAŞKANLIĞINA VEKÂLET ETME İŞLEMİ",
-            "baslik": "Cumhurbaşkanlığına, Cumhurbaşkanı Yardımcısı Cevdet YILMAZ’ın Vekâlet Etmesine Dair Tezkere",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261108-1.pdf",
+            "tur": "YÖNETMELİKLER",
+            "baslik": "İstanbul Bilgi Üniversitesi Fikrî Mülkiyet Hukuku Uygulama ve Araştırma Merkezi Yönetmeliği",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261109-1.htm",
             "mukerrer": false,
             "anahtar_kelime": []
           },
           {
             "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
             "tur": "YÖNETMELİKLER",
-            "baslik": "Bahçeşehir Üniversitesi Sporda Yenilikçilik Uygulama ve Araştırma Merkezi Yönetmeliği",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261108-2.htm",
+            "baslik": "İstanbul Bilgi Üniversitesi Kültür Politikaları ve Yönetimi Uygulama ve Araştırma Merkezi Yönetmeliği",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261109-2.htm",
             "mukerrer": false,
             "anahtar_kelime": []
           },
           {
             "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
             "tur": "YÖNETMELİKLER",
-            "baslik": "Bahçeşehir Üniversitesi Türk Müziği Uygulama ve Araştırma Merkezi Yönetmeliği",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261108-3.htm",
+            "baslik": "İstanbul Bilgi Üniversitesi Rekabet Hukuku ve Politikası Uygulama ve Araştırma Merkezi Yönetmeliği",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261109-3.htm",
             "mukerrer": false,
             "anahtar_kelime": []
           },
           {
-            "bolum": "YARGI BÖLÜMÜ",
-            "tur": "UYUŞMAZLIK MAHKEMESİ KARARLARI",
-            "baslik": "Uyuşmazlık Mahkemesine Ait Kararlar",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261108-4.pdf",
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "YÖNETMELİKLER",
+            "baslik": "İstanbul Bilgi Üniversitesi Uluslararası Ticaret ve Tahkim Hukuku Uygulama ve Araştırma Merkezi Yönetmeliği",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261109-4.htm",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "YÖNETMELİKLER",
+            "baslik": "İstanbul Üniversitesi Sürekli Eğitim Uygulama ve Araştırma Merkezi Yönetmeliği",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261109-5.htm",
             "mukerrer": false,
             "anahtar_kelime": []
           }
