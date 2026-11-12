@@ -1,59 +1,47 @@
 {
-  "tarih": "2026-11-11",
-  "olusturulma": "2026-11-11T05:41:52+03:00",
+  "tarih": "2026-11-12",
+  "olusturulma": "2026-11-12T05:43:21+03:00",
   "resmi_gazete": {
     "kaynak": "Resmî Gazete",
     "sayilar": [
       {
-        "tarih": "2026-11-11",
-        "url": "https://www.resmigazete.gov.tr/fihrist?tarih=2026-11-11",
+        "tarih": "2026-11-12",
+        "url": "https://www.resmigazete.gov.tr/fihrist?tarih=2026-11-12",
         "status": "ok",
-        "tarih_metni": "11 Kasım 2026",
-        "sayi": "33427",
+        "tarih_metni": "12 Kasım 2026",
+        "sayi": "33428",
         "items": [
           {
             "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
-            "tur": "CUMHURBAŞKANI KARARI",
-            "baslik": "Birleşmiş Milletler Güvenlik Konseyinin 1267 (1999), 1988 (2011), 1989 (2011) ve 2253 (2015) Sayılı Kararlarıyla Listelenen Kişi, Kuruluş veya Organizasyonların Tasarrufunda Bulunan Malvarlığının Dondurulması Hakkındaki 30/9/2013 Tarihli ve 2013/5428 Sayılı Bakanlar Kurulu Kararının Eki (1) Sayılı Listede Değişiklik Yapılmasına İlişkin Karar (Karar Sayısı: 11959)",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261111-1.pdf",
+            "tur": "YÖNETMELİKLER",
+            "baslik": "Afetler Sonrası Bina Hasar Tespiti Yapılmasına İlişkin Genel Kurallar Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261112-1.htm",
             "mukerrer": false,
             "anahtar_kelime": []
           },
           {
             "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
-            "tur": "YÖNETMELİK",
-            "baslik": "Piri Reis Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261111-2.htm",
+            "tur": "YÖNETMELİKLER",
+            "baslik": "Bütünleşik Sigortalar Hakkında Yönetmelik",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261112-2.htm",
             "mukerrer": false,
             "anahtar_kelime": []
           },
           {
             "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
-            "tur": "TEBLİĞLER",
-            "baslik": "İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2025/4)’de Değişiklik Yapılmasına Dair Tebliğ",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261111-3.htm",
+            "tur": "YÖNETMELİKLER",
+            "baslik": "Sigortacılık Kapsamında Değerlendirilecek Faaliyetler ve Mesafeli Akdedilen Sigorta Sözleşmeleri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261112-3.htm",
             "mukerrer": false,
             "anahtar_kelime": []
           },
           {
             "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
-            "tur": "TEBLİĞLER",
-            "baslik": "A Ödeme ve Elektronik Para Hizmetleri A.Ş.’nin Faaliyet İzninin İptal Edilmesine İlişkin Karar",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261111-4.pdf",
+            "tur": "YÖNETMELİKLER",
+            "baslik": "Devlet Su İşleri Genel Müdürlüğü Personeli Görevde Yükselme ve Ünvan Değişikliği Yönetmeliği",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261112-4.htm",
             "mukerrer": false,
-            "anahtar_kelime": [
-              "elektronik para"
-            ]
-          },
-          {
-            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
-            "tur": "TEBLİĞLER",
-            "baslik": "Ozan Elektronik Para A.Ş.’nin Faaliyet İzninin İptal Edilmesine İlişkin Karar",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261111-5.pdf",
-            "mukerrer": false,
-            "anahtar_kelime": [
-              "elektronik para"
-            ]
+            "anahtar_kelime": []
           }
         ],
         "notes": []
