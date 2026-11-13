@@ -1,0 +1,52 @@
+{
+  "tarih": "2026-11-13",
+  "olusturulma": "2026-11-13T05:40:05+03:00",
+  "resmi_gazete": {
+    "kaynak": "Resmî Gazete",
+    "sayilar": [
+      {
+        "tarih": "2026-11-13",
+        "url": "https://www.resmigazete.gov.tr/fihrist?tarih=2026-11-13",
+        "status": "ok",
+        "tarih_metni": "13 Kasım 2026",
+        "sayi": "33429",
+        "items": [
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "YÖNETMELİKLER",
+            "baslik": "Diyaliz Merkezleri Hakkında Yönetmelik",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261113-1.htm",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "YÖNETMELİKLER",
+            "baslik": "Gaziantep Üniversitesi Bilgisayar Araştırma ve Uygulama Merkezi (BİLAMER) Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261113-2.htm",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "YÖNETMELİKLER",
+            "baslik": "Gaziantep Üniversitesi Din, Tarih ve Medeniyetler Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261113-3.htm",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "YÖNETMELİKLER",
+            "baslik": "Gaziantep Üniversitesi Strateji Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261113-4.htm",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          }
+        ],
+        "notes": []
+      }
+    ]
+  },
+  "kurumlar": []
+}
