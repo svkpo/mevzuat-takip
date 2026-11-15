@@ -1,32 +1,17 @@
-# Mevzuat Takip – Ham Toplama (2026-11-14)
+# Mevzuat Takip – Ham Toplama (2026-11-15)
 
-Oluşturulma: 2026-11-14T05:41:27+03:00
+Oluşturulma: 2026-11-15T05:43:07+03:00
 
-## Resmî Gazete 2026-11-14 – sayı 33430 – durum: ok
-
-**YASAMA BÖLÜMÜ / KANUN**
-- [7597 Türkiye Cumhuriyeti, Pakistan İslam Cumhuriyeti ve Suudi Arabistan Krallığı Arasında Ortak Savunma İçin Mekke Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun](https://www.resmigazete.gov.tr/eskiler/2026/11/20261114-1.htm)
-
-**YÜRÜTME VE İDARE BÖLÜMÜ / CUMHURBAŞKANI KARARLARI**
-- [Üniversite Hastaneleri Koordinasyon Komitesi Kurulması Hakkında Karar (Karar Sayısı: 11971)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261114-2.pdf)
-- [Geliştirme Ödeneği Ödenmesine Dair Kararda Değişiklik Yapılmasına İlişkin Karar (Karar Sayısı: 11972)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261114-3.pdf)
-- [Sınır ve Koordinatları Gösterilen Alanın Gaziantep Üniversitesi Teknoloji Geliştirme Bölgesi Gaziantep Teknopark OSB Ek Alanı Olarak Tespit Edilmesi Hakkında Karar (Karar Sayısı: 11973)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261114-4.pdf)
-- [Isparta İli, Eğirdir, Gelendost, Senirkent ve Yalvaç İlçeleri Sınırları İçerisinde Bulunan Bazı Alanların Eğirdir Gölü Doğal Sit Alanı Kesin Korunacak Hassas Alan Olarak Tescil ve İlan Edilmesi Hakkındaki 5/1/2021 Tarihli ve 3357 Sayılı Cumhurbaşkanı Kararının Yürürlükten Kaldırılması Hakkında Karar (Karar Sayısı: 11974)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261114-5.pdf)
-- [Erzurum İlinde Bulunan Bazı Yerlerde Arazi Toplulaştırması ve Tarla İçi Geliştirme Hizmetleri Yapılması Hakkında Karar (Karar Sayısı: 11975)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261114-6.pdf)
-- [154 kV (Gölbaşı TM-Emirler TM EİH) Brş.N.-Yağlıpınar Uydu TM (Girdi-Çıktı) (Hat 1- Hat 2) Enerji İletim Hattı Projesi Kapsamında Bazı Taşınmazların Türkiye Elektrik İletim Anonim Şirketi Genel Müdürlüğü Tarafından Acele Kamulaştırılması Hakkında Karar (Karar Sayısı: 11976)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261114-7.pdf) `[anonim şirket]`
-- [154 kV (Kulu TM-Cihanbeyli TM)-Tosyalı Şeker GES TM (Girdi-Çıktı) Enerji İletim Hattı Projesi Kapsamında Bazı Taşınmazların Türkiye Elektrik İletim Anonim Şirketi Genel Müdürlüğü Tarafından Acele Kamulaştırılması Hakkında Karar (Karar Sayısı: 11977)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261114-8.pdf) `[anonim şirket]`
-- [Türkiye Elektrik İletim Anonim Şirketi Genel Müdürlüğüne Ait Enerji İletim Hattı Projelerinin Yapımı Amacıyla Bazı Taşınmazların Adı Geçen Genel Müdürlük Tarafından Acele Kamulaştırılması Hakkında Karar (Karar Sayısı: 11978)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261114-9.pdf) `[anonim şirket]`
-- [400 kV Kayabaşı Mehmet Esen TM-Kırıkkale DGKÇS Enerji İletim Hattının D.212-D.216 Numaralı Direkleri Arası ile 154 kV Sungurlu OSB-Alaca TM Enerji İletim Hattının D.11-D.14 Numaralı ve D.26-D.33 Numaralı Direkleri Arası Güzergâhlarının Deplase Edilmesi Amacıyla Bazı Taşınmazların Türkiye Elektrik İletim Anonim Şirketi Genel Müdürlüğü Tarafından Acele Kamulaştırılması Hakkında Karar (Karar Sayısı: 11979)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261114-10.pdf) `[anonim şirket]`
-- [154 kV Mersin DRES TM-Akdeniz GİS TM Enerji İletim Hattı Projesi Kapsamında Bazı Taşınmazların Türkiye Elektrik İletim Anonim Şirketi Genel Müdürlüğü Tarafından Acele Kamulaştırılması Hakkında Karar (Karar Sayısı: 11980)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261114-11.pdf) `[anonim şirket]`
-- [Ankara İli, Kahramankazan İlçesinde Kurulacak RMS-B Doğal Gaz Dağıtım Tesisinin Yapımı Amacıyla, Kışla Mahallesi Sınırları İçerisinde Yer Alan Taşınmazın Enerji Piyasası Düzenleme Kurumu Tarafından Acele Kamulaştırılması Hakkında Karar (Karar Sayısı: 11981)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261114-12.pdf)
-- [Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslarda Değişiklik Yapılmasına Dair Esaslar (Karar Sayısı: 11982)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261114-13.pdf)
-- [Özelleştirme İdaresi Başkanlığı ile İlgili Kararlar (Karar Sayısı: 11983, 11984, 11985, 11986, 11987, 11988, 11989, 11990)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261114-14.pdf)
+## Resmî Gazete 2026-11-15 – sayı 33431 – durum: ok
 
 **YÜRÜTME VE İDARE BÖLÜMÜ / YÖNETMELİKLER**
-- [Askeri Yasak Bölgeler ve Güvenlik Bölgeleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik (Karar Sayısı: 11991)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261114-15.pdf)
-- [Millî Eğitim Bakanlığı Ölçme ve Değerlendirme Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/11/20261114-16.htm)
+- [Dokuz Eylül Üniversitesi Akademik Acil Tıp ve Afet Eğitim Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/11/20261115-1.htm)
+- [Dokuz Eylül Üniversitesi Kozmetoloji Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/11/20261115-2.htm)
+- [Dokuz Eylül Üniversitesi Üniversite-Sanayi Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/11/20261115-3.htm)
+- [İstanbul Sabahattin Zaim Üniversitesi Gıda ve Tarım Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/11/20261115-4.htm)
+- [Toros Üniversitesi Alevilik-Bektaşilik Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/11/20261115-5.htm)
 
-**YÜRÜTME VE İDARE BÖLÜMÜ / GENELGE**
-- [Ulusal Adil Geçiş Stratejisi ve Eylem Planı (2027-2029) ile İlgili 2026/13 Sayılı Cumhurbaşkanlığı Genelgesi](https://www.resmigazete.gov.tr/eskiler/2026/11/20261114-17.pdf)
+**YÜRÜTME VE İDARE BÖLÜMÜ / TEBLİĞ**
+- [Ulusal Meslek Standartlarına Dair Tebliğ (No: 2026/13)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261115-6.htm)
 
 ## Kurum sayfaları
