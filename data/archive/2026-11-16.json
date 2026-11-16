@@ -1,0 +1,52 @@
+{
+  "tarih": "2026-11-16",
+  "olusturulma": "2026-11-16T05:47:02+03:00",
+  "resmi_gazete": {
+    "kaynak": "Resmî Gazete",
+    "sayilar": [
+      {
+        "tarih": "2026-11-16",
+        "url": "https://www.resmigazete.gov.tr/fihrist?tarih=2026-11-16",
+        "status": "ok",
+        "tarih_metni": "16 Kasım 2026",
+        "sayi": "33432",
+        "items": [
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "YÖNETMELİKLER",
+            "baslik": "Atılım Üniversitesi Ana Yönetmeliği",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261116-1.htm",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "YÖNETMELİKLER",
+            "baslik": "Atılım Üniversitesi Lisansüstü Eğitim-Öğretim Yönetmeliği",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261116-2.htm",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "YÖNETMELİKLER",
+            "baslik": "Karadeniz Teknik Üniversitesi Lisansüstü Eğitim-Öğretim Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261116-3.htm",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "YÖNETMELİKLER",
+            "baslik": "Karadeniz Teknik Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim Yönetmeliği",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261116-4.htm",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          }
+        ],
+        "notes": []
+      }
+    ]
+  },
+  "kurumlar": []
+}
