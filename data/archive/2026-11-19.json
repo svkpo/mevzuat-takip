@@ -1,0 +1,44 @@
+{
+  "tarih": "2026-11-19",
+  "olusturulma": "2026-11-19T05:44:56+03:00",
+  "resmi_gazete": {
+    "kaynak": "Resmî Gazete",
+    "sayilar": [
+      {
+        "tarih": "2026-11-19",
+        "url": "https://www.resmigazete.gov.tr/fihrist?tarih=2026-11-19",
+        "status": "ok",
+        "tarih_metni": "19 Kasım 2026",
+        "sayi": "33435",
+        "items": [
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "YÖNETMELİKLER",
+            "baslik": "Pilot Lisans Yönetmeliği (SHY-1)’nde Değişiklik Yapılmasına Dair Yönetmelik",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261119-1.htm",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "YÖNETMELİKLER",
+            "baslik": "Alanya Alaaddin Keykubat Üniversitesi Yapay Zeka ve Simülasyon Uygulama ve Araştırma Merkezi Yönetmeliği",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261119-2.htm",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "YÖNETMELİKLER",
+            "baslik": "Bursa Uludağ Üniversitesi Önlisans ve Lisans Eğitim Öğretim Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261119-3.htm",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          }
+        ],
+        "notes": []
+      }
+    ]
+  },
+  "kurumlar": []
+}

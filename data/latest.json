@@ -1,65 +1,39 @@
 {
-  "tarih": "2026-11-18",
-  "olusturulma": "2026-11-18T05:44:20+03:00",
+  "tarih": "2026-11-19",
+  "olusturulma": "2026-11-19T05:44:56+03:00",
   "resmi_gazete": {
     "kaynak": "Resmî Gazete",
     "sayilar": [
       {
-        "tarih": "2026-11-18",
-        "url": "https://www.resmigazete.gov.tr/fihrist?tarih=2026-11-18",
+        "tarih": "2026-11-19",
+        "url": "https://www.resmigazete.gov.tr/fihrist?tarih=2026-11-19",
         "status": "ok",
-        "tarih_metni": "18 Kasım 2026",
-        "sayi": "33434",
+        "tarih_metni": "19 Kasım 2026",
+        "sayi": "33435",
         "items": [
           {
             "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
-            "tur": "CUMHURBAŞKANI KARARLARI",
-            "baslik": "Bazı Anlaşmaların Yürürlüğe Girdiği Tarihlerin Tespit Edilmesi Hakkında Karar (Karar Sayısı: 11992)",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261118-1.pdf",
+            "tur": "YÖNETMELİKLER",
+            "baslik": "Pilot Lisans Yönetmeliği (SHY-1)’nde Değişiklik Yapılmasına Dair Yönetmelik",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261119-1.htm",
             "mukerrer": false,
             "anahtar_kelime": []
           },
           {
             "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
-            "tur": "CUMHURBAŞKANI KARARLARI",
-            "baslik": "Osmaniye Zorkun Yaylası Yaban Hayatı Geliştirme Sahasının Sınırlarının Değiştirilmesi Hakkında Karar (Karar Sayısı: 11993)",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261118-2.pdf",
+            "tur": "YÖNETMELİKLER",
+            "baslik": "Alanya Alaaddin Keykubat Üniversitesi Yapay Zeka ve Simülasyon Uygulama ve Araştırma Merkezi Yönetmeliği",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261119-2.htm",
             "mukerrer": false,
             "anahtar_kelime": []
           },
           {
             "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
-            "tur": "CUMHURBAŞKANI KARARLARI",
-            "baslik": "Yabancı Yatırımcılara Düzenlenecek İkamet İzinlerine Dair Karar (Karar Sayısı: 11994)",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261118-3.pdf",
+            "tur": "YÖNETMELİKLER",
+            "baslik": "Bursa Uludağ Üniversitesi Önlisans ve Lisans Eğitim Öğretim Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261119-3.htm",
             "mukerrer": false,
             "anahtar_kelime": []
-          },
-          {
-            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
-            "tur": "YÖNETMELİK",
-            "baslik": "Harran Üniversitesi Elektrikli Araç Eğitim Uygulama ve Araştırma Merkezi Yönetmeliği",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261118-4.htm",
-            "mukerrer": false,
-            "anahtar_kelime": []
-          },
-          {
-            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
-            "tur": "TEBLİĞ",
-            "baslik": "İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (No: 2026/32)",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261118-5.htm",
-            "mukerrer": false,
-            "anahtar_kelime": []
-          },
-          {
-            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
-            "tur": "KURUL KARARI",
-            "baslik": "Bankacılık Düzenleme ve Denetleme Kurulunun 17/11/2026 Tarihli ve 11601 Sayılı Kararı",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261118-6.pdf",
-            "mukerrer": false,
-            "anahtar_kelime": [
-              "Bankacılık"
-            ]
           }
         ],
         "notes": []
