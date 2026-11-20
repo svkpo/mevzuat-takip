@@ -1,0 +1,52 @@
+{
+  "tarih": "2026-11-20",
+  "olusturulma": "2026-11-20T05:45:35+03:00",
+  "resmi_gazete": {
+    "kaynak": "Resmî Gazete",
+    "sayilar": [
+      {
+        "tarih": "2026-11-20",
+        "url": "https://www.resmigazete.gov.tr/fihrist?tarih=2026-11-20",
+        "status": "ok",
+        "tarih_metni": "20 Kasım 2026",
+        "sayi": "33436",
+        "items": [
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "YÖNETMELİK",
+            "baslik": "Belediye Meclisi Çalışma Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261120-1.htm",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "KURUL KARARLARI",
+            "baslik": "Enerji Piyasası Düzenleme Kurulunun 19/11/2026 Tarihli ve 15055 Sayılı Kararı",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261120-2.pdf",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "KURUL KARARLARI",
+            "baslik": "Enerji Piyasası Düzenleme Kurulunun 19/11/2026 Tarihli ve 15056 Sayılı Kararı",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261120-3.pdf",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "KURUL KARARLARI",
+            "baslik": "Nükleer Düzenleme Kurulunun 17/11/2026 Tarihli ve 2026-49/1-1, 1-2, 1-3, 1-4, 1-5 ve 1-6 Sayılı Kararları",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261120-4.pdf",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          }
+        ],
+        "notes": []
+      }
+    ]
+  },
+  "kurumlar": []
+}
