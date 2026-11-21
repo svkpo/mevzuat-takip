@@ -1,15 +1,25 @@
-# Mevzuat Takip – Ham Toplama (2026-11-20)
+# Mevzuat Takip – Ham Toplama (2026-11-21)
 
-Oluşturulma: 2026-11-20T05:45:35+03:00
+Oluşturulma: 2026-11-21T05:43:58+03:00
 
-## Resmî Gazete 2026-11-20 – sayı 33436 – durum: ok
+## Resmî Gazete 2026-11-21 – sayı 33437 – durum: ok
+
+**YÜRÜTME VE İDARE BÖLÜMÜ / MİLLETLERARASI ANDLAŞMALAR**
+- [Türkiye Cumhuriyeti Adına 19 Haziran 2026 Tarihinde Ankara’da İmzalanan Ekli Katılım Öncesi Yardım Aracı IPA III Kapsamında Tarım ve Kırsal Kalkınma İçin IPARD III Yardımı Çerçevesinde Türkiye Cumhuriyeti Hükümeti ile Avrupa Komisyonu Arasında 8 Nisan 2024 Tarihinde Yürürlüğe Giren ve En Son 23 Aralık 2024 Tarihinde Değiştirilen 2021-2027 Finansman Anlaşmasını Değiştiren Anlaşmanın Onaylanması Hakkında Karar (Karar Sayısı: 12012)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261121-1.pdf)
+- [Türkiye Cumhuriyeti Hükümeti ve Pakistan İslam Cumhuriyeti Hükümeti Arasında Hidrokarbonlar Alanında İşbirliğine İlişkin Anlaşma ve Anlaşmanın Değiştirilmesine İlişkin Olarak 13 Şubat 2025 Tarihinde İslamabad’da İmzalanan İlişik Protokolün Onaylanması Hakkında Karar (Karar Sayısı: 12013)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261121-2.pdf)
+- [Türkiye Cumhuriyeti Hükümeti ile Somali Federal Cumhuriyeti Hükümeti Arasında Ayni Hibe Desteği Anlaşmasının Onaylanması Hakkında Karar (Karar Sayısı: 12014)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261121-3.pdf)
+- [Türkiye Cumhuriyeti Yükseköğretim Kurulu Başkanlığı ile Suriye Arap Cumhuriyeti Yükseköğretim ve Bilimsel Araştırma Bakanlığı Arasında Gaziantep Üniversitesi ile Sağlık Bilimleri Üniversitesinin Suriye’deki Akademik Birimlerinin Faaliyetlerine İlişkin Mutabakat Zaptının Onaylanması Hakkında Karar (Karar Sayısı: 12015)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261121-4.pdf)
+
+**YÜRÜTME VE İDARE BÖLÜMÜ / CUMHURBAŞKANI KARARI**
+- [Gaziantep Üniversitesi Rektörlüğü ile Sağlık Bilimleri Üniversitesi Rektörlüğüne Bağlı Olarak Suriye’de Kurulan Bazı Fakülte ve Yüksekokulların Kapatılması Hakkında Karar (Karar Sayısı: 12016)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261121-5.pdf)
+
+**YÜRÜTME VE İDARE BÖLÜMÜ / ATAMA KARARLARI**
+- [Cumhurbaşkanlığı Tarafından Yapılan Atamalar Hakkında Kararlar (Karar: 2026/389, 390, 391, 392, 393)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261121-6.pdf)
 
 **YÜRÜTME VE İDARE BÖLÜMÜ / YÖNETMELİK**
-- [Belediye Meclisi Çalışma Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/11/20261120-1.htm)
+- [Beşerî Tıbbi Ürünlerin Tanıtım Faaliyetleri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/11/20261121-7.htm)
 
-**YÜRÜTME VE İDARE BÖLÜMÜ / KURUL KARARLARI**
-- [Enerji Piyasası Düzenleme Kurulunun 19/11/2026 Tarihli ve 15055 Sayılı Kararı](https://www.resmigazete.gov.tr/eskiler/2026/11/20261120-2.pdf)
-- [Enerji Piyasası Düzenleme Kurulunun 19/11/2026 Tarihli ve 15056 Sayılı Kararı](https://www.resmigazete.gov.tr/eskiler/2026/11/20261120-3.pdf)
-- [Nükleer Düzenleme Kurulunun 17/11/2026 Tarihli ve 2026-49/1-1, 1-2, 1-3, 1-4, 1-5 ve 1-6 Sayılı Kararları](https://www.resmigazete.gov.tr/eskiler/2026/11/20261120-4.pdf)
+**YARGI BÖLÜMÜ / DANIŞTAY KARARI**
+- [Danıştay Dördüncü Dairesine Ait Karar](https://www.resmigazete.gov.tr/eskiler/2026/11/20261121-8.pdf)
 
 ## Kurum sayfaları
