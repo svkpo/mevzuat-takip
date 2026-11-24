@@ -1,29 +1,53 @@
 {
-  "tarih": "2026-11-23",
-  "olusturulma": "2026-11-23T05:50:30+03:00",
+  "tarih": "2026-11-24",
+  "olusturulma": "2026-11-24T05:48:55+03:00",
   "resmi_gazete": {
     "kaynak": "Resmî Gazete",
     "sayilar": [
       {
-        "tarih": "2026-11-23",
-        "url": "https://www.resmigazete.gov.tr/fihrist?tarih=2026-11-23",
+        "tarih": "2026-11-24",
+        "url": "https://www.resmigazete.gov.tr/fihrist?tarih=2026-11-24",
         "status": "ok",
-        "tarih_metni": "23 Kasım 2026",
-        "sayi": "33439",
+        "tarih_metni": "24 Kasım 2026",
+        "sayi": "33440",
         "items": [
           {
             "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
-            "tur": "YÖNETMELİKLER",
-            "baslik": "Biruni Üniversitesi Ana Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261123-1.htm",
+            "tur": "YÖNETMELİK",
+            "baslik": "Recep Tayyip Erdoğan Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261124-1.htm",
             "mukerrer": false,
             "anahtar_kelime": []
           },
           {
             "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
-            "tur": "YÖNETMELİKLER",
-            "baslik": "Biruni Üniversitesi Lisansüstü Eğitim-Öğretim ve Sınav Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261123-2.htm",
+            "tur": "TEBLİĞLER",
+            "baslik": "Vergi Usul Kanunu Genel Tebliği (Sıra No: 509)’nde Değişiklik Yapılmasına Dair Tebliğ (Sıra No: 598)",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261124-2.htm",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "TEBLİĞLER",
+            "baslik": "Vergi Usul Kanunu Genel Tebliği (Sıra No: 599)",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261124-3.htm",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "TEBLİĞLER",
+            "baslik": "Hayvancılık Desteklemeleri Uygulama Tebliği (Tebliğ No: 2024/23)’nde Değişiklik Yapılmasına Dair Tebliğ (No: 2026/29)",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261124-4.htm",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YARGI BÖLÜMÜ",
+            "tur": "DANIŞTAY KARARI",
+            "baslik": "Danıştay Dördüncü Dairesine Ait Karar",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261124-5.pdf",
             "mukerrer": false,
             "anahtar_kelime": []
           }
