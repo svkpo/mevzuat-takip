@@ -1,48 +1,39 @@
-# Mevzuat Takip – Ham Toplama (2026-11-27)
+# Mevzuat Takip – Ham Toplama (2026-11-28)
 
-Oluşturulma: 2026-11-27T05:49:41+03:00
+Oluşturulma: 2026-11-28T05:45:02+03:00
 
-## Resmî Gazete 2026-11-27 – sayı 33443 – durum: ok
+## Resmî Gazete 2026-11-28 – sayı 33444 – durum: ok
 
-**YÜRÜTME VE İDARE BÖLÜMÜ / MİLLETLERARASI ANDLAŞMALAR**
-- [Türkiye Cumhuriyeti, Pakistan İslam Cumhuriyeti ve Suudi Arabistan Krallığı Arasında Ortak Savunma İçin Mekke Anlaşmasının Onaylanması Hakkında Karar (Karar Sayısı: 12017)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261127-4.pdf)
-- [Türkiye Cumhuriyeti Hükümeti ve Palau Cumhuriyeti Hükümeti Arasında Hava Hizmetleri Anlaşmasının Onaylanması Hakkında Karar (Karar Sayısı: 12018)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261127-5.pdf)
-- [Türkiye Cumhuriyeti Hükümeti ile Cezayir Demokratik Halk Cumhuriyeti Hükümeti Arasında Sınıraşan Organize Suçlarla Mücadele Alanında İşbirliği Anlaşmasının Onaylanması Hakkında Karar (Karar Sayısı: 12019)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261127-6.pdf)
-- [Türkiye Cumhuriyeti Hükümeti ile Mısır Arap Cumhuriyeti Hükümeti Arasında Bitki Karantinası Alanında Mutabakat Zaptı’nın Onaylanması Hakkında Karar (Karar Sayısı: 12020)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261127-7.pdf)
-- [Türkiye Cumhuriyeti Hükümeti ile Şili Cumhuriyeti Hükümeti Arasında Antarktika’da İşbirliği Hakkında Mutabakat Zaptının İlişik Notalarla Birlikte Onaylanması Hakkında Karar (Karar Sayısı: 12021)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261127-8.pdf)
-- [Türkiye Cumhuriyeti Hükümeti ile Bangladeş Halk Cumhuriyeti Hükümeti Arasında Kültürel Varlıkların Korunması Alanında İşbirliğine İlişkin Mutabakat Zaptının Onaylanması Hakkında Karar (Karar Sayısı: 12022)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261127-9.pdf)
-- [Türkiye Cumhuriyeti Hükümeti ile Gambiya Cumhuriyeti Hükümeti Arasında Enerji Alanında Mutabakat Zaptının Onaylanması Hakkında Karar (Karar Sayısı: 12023)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261127-10.pdf)
-- [Türkiye Cumhuriyeti Milli Eğitim Bakanlığı ile Alman Kalkınma Bankası (KfW) Arasındaki Temiz Enerji ve Enerji Verimliliği Önlemleri Projesi Hakkında 19/3/2018 Tarihli Finansman Anlaşmasına Dair İlişik Ek Finansman Anlaşması ile 19/3/2018 Tarihli Finansman Anlaşması Hakkında Ayrı Anlaşmaya Dair Ekli Tadilat Mektubunun 23/12/2025 ve 21/7/2026 Tarihli İlişik Mektuplarla Birlikte Onaylanması Hakkında Karar (Karar Sayısı: 12024)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261127-11.pdf)
-- [AB-Türkiye Gümrük İşbirliği Komitesinin Avrupa Birliğinin Yetkilendirilmiş Yükümlü Statüsü Programı ile Türkiye Cumhuriyetinin Yetkilendirilmiş Yükümlü Statüsü Programının Karşılıklı Tanınmasına İlişkin Ekli 16 Temmuz 2026 Tarihli ve 1/2026 Sayılı Kararının Onaylanması Hakkında Karar (Karar Sayısı: 12025)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261127-12.pdf)
+**YASAMA BÖLÜMÜ / KANUN**
+- [7598 Türk Kızılay Kanunu](https://www.resmigazete.gov.tr/eskiler/2026/11/20261128-1.htm)
 
 **YÜRÜTME VE İDARE BÖLÜMÜ / CUMHURBAŞKANI KARARLARI**
-- [Türkiye Cumhuriyeti Hükümeti ile Karadağ Hükümeti Arasında Karşılıklı Vize Muafiyeti Anlaşması Hükümlerinin Karadağ’ın Umuma Mahsus Pasaport Hamili Vatandaşları Bakımından Uygulanmasının Durdurulması Hakkında Karar (Karar Sayısı: 12026)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261127-13.pdf)
-- [Kaynak Kullanımını Destekleme Fonu Kesintisi Hakkındaki Ekli Kararın Yürürlüğe Konulması Hakkında Karar (Karar Sayısı: 12027)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261127-14.pdf)
-- [6183 Sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 51 inci Maddesinin Birinci Fıkrasında Yer Alan Gecikme Zammı Oranının, Her Ay İçin Ayrı Ayrı Uygulanmak Üzere %3,2 Olarak Belirlenmesi Hakkında Karar (Karar Sayısı: 12028)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261127-15.pdf)
-- [Elazığ İli, Karakocan İlçesi, Kızılca Mahallesi Sınırları İçerisinde Tesis Edilecek Olan Enerji Nakil Hattının Yapımı Amacıyla Ekli (I) Sayılı Liste ve Haritada Kamulaştırma Bilgisi ve Güzergâhı Belirtilen Taşınmazın, Ekli (II) Sayılı Liste ile Haritalarda Kamulaştırma Bilgileri ve Güzergâhları Gösterilen Enerji Nakil Hatlarının Yapımı Amacıyla Söz Konusu Güzergâhlara İsabet Eden Taşınmazlarda Elektrik Dağıtım Tesis Yerlerinin Mülkiyet Şeklinde, Hat Emniyet Sahalarının İse İrtifak Hakkı Kurulmak Suretiyle, Türkiye Elektrik Dağıtım Anonim Şirketi Genel Müdürlüğü Tarafından Acele Kamulaştırılması Hakkında Karar (Karar Sayısı: 12029)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261127-16.pdf) `[anonim şirket]`
-- [Bağlantı Anlaşması Uyarınca Tesis Edilecek 154 kV Saves Depolamalı Diyarbakır GES TM-Çınar TM Enerji İletim Hattı Projesi Kapsamında Bazı Taşınmazların Türkiye Elektrik İletim Anonim Şirketi Genel Müdürlüğü Tarafından Acele Kamulaştırılması Hakkında Karar (Karar Sayısı: 12030)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261127-17.pdf) `[anonim şirket]`
-- [Türkiye Elektrik İletim Anonim Şirketi Genel Müdürlüğüne Ait 400/154 kV Elbistan-A GIS Yenileme (Farklı Sahada) Transformatör Merkezi Sahası Projesi Kapsamında Bazı Taşınmazların Türkiye Elektrik İletim Anonim Şirketi Genel Müdürlüğü Tarafından Acele Kamulaştırılması Hakkında Karar (Karar Sayısı: 12031)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261127-18.pdf) `[anonim şirket]`
-- [Özelleştirme İdaresi Başkanlığı ile İlgili Kararlar (Karar Sayısı: 12032, 12033, 12034, 12035, 12036, 12037, 12038, 12039, 12040)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261127-19.pdf)
-
-**YÜRÜTME VE İDARE BÖLÜMÜ / YARGITAY ÜYELİKLERİNE SEÇME KARARI**
-- [Hâkimler ve Savcılar Kurulu Genel Kurulunca Yargıtay Üyeliklerine Seçilenler Hakkında Karar (No: 1543)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261127-1.pdf)
-
-**YÜRÜTME VE İDARE BÖLÜMÜ / ATAMA KARARLARI**
-- [Cumhurbaşkanlığı Tarafından Yapılan Atamalar Hakkında Kararlar (Karar: 2026/400, 401, 402, 403, 404, 405, 406, 407, 408)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261127-20.pdf)
-
-**YÜRÜTME VE İDARE BÖLÜMÜ / YÖNETMELİKLER**
-- [Bina Yangın Yönetmeliği (Karar Sayısı: 12041)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261127-21.pdf)
-- [Korunan Alanların Tespit, Tescil ve Onayına İlişkin Usul ve Esaslara Dair Yönetmelikte Değişiklik Yapılması Hakkında Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/11/20261127-2.htm)
-- [Güvence Hesabı Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/11/20261127-3.htm)
+- [Adana, Afyonkarahisar, Artvin, Bingöl, Denizli, Eskişehir, Hatay, İstanbul, Karaman, Mersin ve Sinop İllerinde Bulunan Bazı Alanların Orman Sınırları Dışına Çıkartılması Hakkında Karar (Karar Sayısı: 12056)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261128-2.pdf)
+- [Sınır ve Koordinatları Gösterilen Alanın Bandırma Onyedi Eylül Üniversitesi Teknoloji Geliştirme Bölgesi Doğanpınar Ek Alanı Olarak Tespit Edilmesi Hakkında Karar (Karar Sayısı: 12057)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261128-3.pdf)
+- [Sınır ve Koordinatları Gösterilen Alanın Bursa Teknik Üniversitesi Teknoloji Geliştirme Bölgesi Bursa INNOHUB Ek Alanı Olarak Tespit Edilmesi Hakkında Karar (Karar Sayısı: 12058)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261128-4.pdf)
+- [6802 Sayılı Gider Vergileri Kanununun 34 üncü Maddesinin Beşinci Fıkrasında Belirtilen Vergi Oranının Yeniden Belirlenmesi Hakkındaki 30/4/2026 Tarihli ve 11263 Sayılı Cumhurbaşkanı Kararının Eki Kararda Değişiklik Yapılması Hakkında Karar (Karar Sayısı: 12059)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261128-5.pdf)
+- [400 kV (Gölbaşı-Sincan Brş.N.)-(Bağlum-Sincan Brş.N.) Enerji İletim Hattı Projesi Kapsamında Bazı Taşınmazların Türkiye Elektrik İletim Anonim Şirketi Genel Müdürlüğü Tarafından Acele Kamulaştırılması Hakkında Karar (Karar Sayısı: 12060)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261128-6.pdf) `[anonim şirket]`
+- [154 kV Kilis-Elbeyli Enerji İletim Hattı Projesi Kapsamında Bazı Taşınmazların Türkiye Elektrik İletim Anonim Şirketi Genel Müdürlüğü Tarafından Acele Kamulaştırılması Hakkında Karar (Karar Sayısı: 12061)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261128-7.pdf) `[anonim şirket]`
+- [154 kV (Beylikköprü-DDY Beylikköprü) Brş.N. Gürsöğüt HES Enerji İletim Hattı Projesi Kapsamında Bazı Taşınmazların Türkiye Elektrik İletim Anonim Şirketi Genel Müdürlüğü Tarafından Acele Kamulaştırılması Hakkında Karar (Karar Sayısı: 12062)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261128-8.pdf) `[anonim şirket]`
+- [154 kV (Pınarhisar-Traçim) Brş.N.-Pagder Aslan OSB Enerji İletim Hattı Projesi Kapsamında Bazı Taşınmazların Türkiye Elektrik İletim Anonim Şirketi Genel Müdürlüğü Tarafından Acele Kamulaştırılması Hakkında Karar (Karar Sayısı: 12063)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261128-9.pdf) `[anonim şirket]`
+- [154 kV (Çifteler TM-Kırka TM) Brş.N.-Adatoprakpınar DGES TM Girdi-Çıktı Enerji İletim Hattı Projesi Kapsamında Bazı Taşınmazların Türkiye Elektrik İletim Anonim Şirketi Genel Müdürlüğü Tarafından Acele Kamulaştırılması Hakkında Karar (Karar Sayısı: 12064)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261128-10.pdf) `[anonim şirket]`
+- [154 kV Yeni Mağazacılık Afyon GES (Piribeyli GES) TM-Yunak TM Enerji İletim Hattı Projesi Kapsamında Bazı Taşınmazların Türkiye Elektrik İletim Anonim Şirketi Genel Müdürlüğü Tarafından Acele Kamulaştırılması Hakkında Karar (Karar Sayısı: 12065)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261128-11.pdf) `[anonim şirket]`
+- [154 kV Demirli RES TM-(Kızılırmak TM-Kırşehir 2 TM) Girdi-Çıktı (A) Enerji İletim Hattı ve 154 kV Demirli RES TM-(Kızılırmak TM-Kırşehir 2 TM) Girdi-Çıktı (B) Enerji İletim Hattı Projeleri Kapsamında Bazı Taşınmazların Türkiye Elektrik İletim Anonim Şirketi Genel Müdürlüğü Tarafından Acele Kamulaştırılması Hakkında Karar (Karar Sayısı: 12066)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261128-12.pdf) `[anonim şirket]`
+- [154 kV Parmakören Müstakil DGES TM-Gediz TM Enerji İletim Hattı Projesi Kapsamında Bazı Taşınmazların Türkiye Elektrik İletim Anonim Şirketi Genel Müdürlüğü Tarafından Acele Kamulaştırılması Hakkında Karar (Karar Sayısı: 12067)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261128-13.pdf) `[anonim şirket]`
+- [Kamulaştırma Bilgileri Yer Alan Taşınmazın, İzmir İli, Ödemiş İlçesi, Suçıktı Mahallesinde Meydana Gelen Afet Nedeniyle Hak Sahibi Olan Afetzedelerin Barınma İhtiyacının Karşılanması Amacıyla Afet ve Acil Durum Yönetimi Başkanlığı Tarafından Acele Kamulaştırılması Hakkında Karar (Karar Sayısı: 12068)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261128-14.pdf)
+- [CNG İstasyon Yeri Yapımı Amacıyla Rize İlinde Bulunan Taşınmazın Enerji Piyasası Düzenleme Kurumu Tarafından Acele Kamulaştırılması Hakkında Karar (Karar Sayısı: 12069)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261128-15.pdf)
+- [Özelleştirme İdaresi Başkanlığı ile İlgili Kararlar (Karar Sayısı: 12070, 12071, 12072, 12073, 12074)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261128-16.pdf)
+- [Bazı Kamu Kurum ve Kuruluşlarına Ait Dolu ve Boş Kadrolarda Değişiklik Yapılması Hakkında Karar (Karar: 2026/413)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261128-17.pdf)
+- [Bazı Kamu İktisadi Teşebbüslerine Ait Kadro ve Pozisyonların İptali ve İhdası Hakkında Karar (Karar: 2026/414)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261128-18.pdf)
 
 **YÜRÜTME VE İDARE BÖLÜMÜ / TEBLİĞ**
-- [Tahsilat Genel Tebliği (Seri:C Sıra No:10)](https://www.resmigazete.gov.tr/eskiler/2026/11/20261127-22.htm)
+- [Fintlix Elektronik Para ve Ödeme Hizmetleri A.Ş.’nin Faaliyet İzninin İptal Edilmesine İlişkin Karar](https://www.resmigazete.gov.tr/eskiler/2026/11/20261128-19.pdf) `[elektronik para, ödeme hizmet]`
 
-**YARGI BÖLÜMÜ / ANAYASA MAHKEMESİ KARARLARI**
-- [Anayasa Mahkemesinin 13/5/2026 Tarihli ve E: 2026/111, K: 2026/104 Sayılı Kararı](https://www.resmigazete.gov.tr/eskiler/2026/11/20261127-23.pdf)
-- [Anayasa Mahkemesinin 4/6/2026 Tarihli ve E: 2026/126, K: 2026/124 Sayılı Kararı](https://www.resmigazete.gov.tr/eskiler/2026/11/20261127-24.pdf)
-- [Anayasa Mahkemesinin 4/6/2026 Tarihli ve E: 2025/237, K: 2026/130 Sayılı Kararı](https://www.resmigazete.gov.tr/eskiler/2026/11/20261127-25.pdf)
-- [Anayasa Mahkemesinin 8/9/2026 Tarihli ve E: 2025/112, K: 2026/193 Sayılı Kararı](https://www.resmigazete.gov.tr/eskiler/2026/11/20261127-26.pdf)
-- [Anayasa Mahkemesinin 2/4/2026 Tarihli ve 2020/34811 Başvuru Numaralı Kararı](https://www.resmigazete.gov.tr/eskiler/2026/11/20261127-27.pdf)
+**YÜRÜTME VE İDARE BÖLÜMÜ / KURUL KARARLARI**
+- [Enerji Piyasası Düzenleme Kurulunun 26/11/2026 Tarihli ve 15074 Sayılı Kararı](https://www.resmigazete.gov.tr/eskiler/2026/11/20261128-20.pdf)
+- [Enerji Piyasası Düzenleme Kurulunun 26/11/2026 Tarihli ve 15075 Sayılı Kararı](https://www.resmigazete.gov.tr/eskiler/2026/11/20261128-21.pdf)
+
+**YARGI BÖLÜMÜ / YARGITAY KARARLARI**
+- [Yargıtay 9. Hukuk Dairesine Ait Kararlar](https://www.resmigazete.gov.tr/eskiler/2026/11/20261128-22.pdf)
 
 ## Kurum sayfaları
